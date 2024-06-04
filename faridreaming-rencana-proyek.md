@@ -9,3 +9,4 @@ RENCANA PROYEK FARIDREAMING
 - Website Kelas TRPL-2C
   - Menggunakan Tailwind CSS
 - Proyek PHP
+  - Belajar dari WPU
