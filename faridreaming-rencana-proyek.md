@@ -3,5 +3,10 @@ RENCANA PROYEK FARIDREAMING
 - Roster Maker:
   - Fitur CRUD
   - Menggunakan local storage
-- Website Kelas TRPL-2C        
-  - Menggunakan Bootstrap
+- Quran Wallpaper:
+  - Menggunakan back-end
+  - Fitur eksport ayat
+- Website Kelas TRPL-2C
+  - Menggunakan Tailwind CSS
+- Proyek PHP
+  - Belajar dari WPU
