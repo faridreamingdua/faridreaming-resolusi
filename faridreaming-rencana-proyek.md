@@ -5,4 +5,8 @@ RENCANA PROYEK FARIDREAMING
   - Menggunakan local storage
 - Quran Wallpaper:
   - Menggunakan back-end
-- Website Kelas TRPL-2C        
+  - Fitur eksport ayat
+- Website Kelas TRPL-2C
+  - Menggunakan Tailwind CSS
+- Proyek PHP
+  - Belajar dari WPU
